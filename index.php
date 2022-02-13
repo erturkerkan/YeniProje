@@ -10,6 +10,6 @@
 
         <h2><?php echo "Bu günün tarihi:". date("d/m/Y") . "<br>";?></h2>
     
-        <h2><?php echo "Ben yeni Download oldum". "<br>";?></h2>
+        <h2><?php echo "Ben yeni Download oldum ona göre". "<br>";?></h2>
 </body>
 </html>
